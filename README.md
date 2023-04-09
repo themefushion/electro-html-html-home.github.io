@@ -1,1 +1,1 @@
-# electro-html-html-home.github.io
+# electro-html-home.github.io
